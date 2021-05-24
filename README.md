@@ -1,2 +1,2 @@
 # lab_10_extra
-repozytorium na dodatkowe zadanie
+repozytorium na dodatkowe zadanie.
